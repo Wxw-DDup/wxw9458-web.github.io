@@ -1,17 +1,20 @@
+我是王祥伟，目前在上海工程技术大学攻读电子信息硕士。关注计算机视觉、小目标检测与智慧农业，正在开展无人机稻田杂草识别研究，也参与农资库存管理系统的开发实践。
 
+这里记录项目、论文阅读和模型实验：从原始图像处理、标注质量检查，到检测模型训练、评估与误差分析。
 
-[![Xiangwei Wang](https://img.shields.io/badge/WXW-github-blue?logo=github)](https://github.com/wxw9458-web)
+[查看项目实践](#projects) · [阅读论文导读](#reading) · [查看实验记录](#experiments)
 
-I am currently a master’s student at Shanghai University of Engineering Science (SUES).
+### 教育背景
 
-#### Contact
+- **上海工程技术大学** · 电子信息硕士 · 2025—至今
+- **湖北理工学院** · 自动化本科 · 2020—2024
 
-Email: wxw9458@gmail.com
+### 近期工作
 
-#### Education
-Master's Program: Electronic Information, Shanghai University of Engineering Science (SUES), 2025—Present (Pursuing).
-Bachelor's Degree: Automation, Hubei Polytechnic University（HBPU）, 2020—2024.
+- **2026.09** · 开展杂草图像整理与检测模型实验。
+- **2026.09** · 完善农资库存管理系统及相关文档。
+- **2026.07—08** · 学习目标检测方法，开展模型对比与问题分析。
 
-#### Research Interests
-Image Recognition.
+### 联系方式
 
+[GitHub · Wxw-DDup](https://github.com/Wxw-DDup) · [wxw9458@gmail.com](mailto:wxw9458@gmail.com)

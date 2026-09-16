@@ -1,4 +1,3 @@
-@import "./styles.css";
 
 
 :root{
@@ -107,6 +106,63 @@ section .main-body{
     #avatar {
         margin: 0;
     }
+}
+
+/* Reading layout: retain the homepage's blue identity and existing imagery. */
+html { scroll-padding-top: 6rem; }
+body { color: #273044; font-family: "Segoe UI", "Microsoft YaHei", sans-serif; }
+a { text-underline-offset: .2em; }
+a:focus-visible, button:focus-visible, summary:focus-visible, input:focus-visible, select:focus-visible, .table-scroll:focus-visible {
+    outline: 3px solid #3948d2;
+    outline-offset: 4px;
+}
+::selection { background: #dce1ff; color: #182362; }
+.skip-link { position: fixed; top: -6rem; left: 1rem; padding: .75rem; z-index: 20000; background: white; }
+.skip-link:focus { top: 1rem; }
+.top-section { height: auto; min-height: 22rem; padding: 9rem 0 6rem; }
+.top-section h1 { max-width: 100%; text-wrap: balance; font-size: clamp(2rem, 5vw, 3.5rem); line-height: 1.3; color: white; font-weight: 600; }
+.top-section p { color: white; max-width: 40rem; margin-top: 1rem; }
+main section { padding: 4rem 0; scroll-margin-top: 1rem; }
+section header h2 { font-family: inherit !important; font-size: clamp(1.7rem, 3vw, 2.2rem); line-height: 1.4; margin-bottom: 1.7rem; font-weight: 600; }
+section .main-body { max-width: 76ch; font-size: 1.05rem; line-height: 1.95; font-weight: 400; overflow-wrap: anywhere; }
+.main-body h3 { font-family: inherit; font-size: 1.4rem; margin: 2.5rem 0 1rem; line-height: 1.5; }
+.main-body > h3:first-child { margin-top: 0; }
+.main-body li { margin-bottom: .7rem; }
+.main-body p { margin-bottom: 1.2rem; }
+#home header { padding-right: 170px; }
+#avatar { top: -58px; }
+#avatar img { height: 130px; max-width: 150px; object-fit: cover; }
+.bg-gradient-primary-to-secondary-light { background: #fff !important; }
+.bg-gradient-primary-to-secondary-gray { background: #f5f6fa !important; }
+details { border-top: 1px solid #cbd0df; padding: 1.2rem 0; scroll-margin-top: 6rem; }
+summary { cursor: pointer; color: #273889; font-weight: 600; line-height: 1.7; }
+details[open] > summary { margin-bottom: 1.5rem; }
+.paper-catalog { max-width: 76ch; margin-top: 2rem; }
+.catalog-intro { line-height: 1.8; }
+.catalog-filters { display: grid; grid-template-columns: 2fr 1fr; gap: 1rem; }
+.catalog-filters label { display: block; margin-bottom: .5rem; font-weight: 600; }
+.catalog-filters input, .catalog-filters select { width: 100%; min-height: 46px; padding: .65rem; border: 1px solid #7c859b; border-radius: 6px; background: white; color: #273044; caret-color: #3948d2; }
+.catalog-filters input::placeholder { color: #606a7e; }
+#paper-count { margin: 1rem 0; color: #505b70; }
+.paper-list { max-height: 32rem; overflow-y: auto; padding: 0 1rem 0 1.8rem; scrollbar-color: #7c859b #f0f2f8; }
+.paper-list li { padding: .85rem .25rem; border-bottom: 1px solid #e0e3ec; overflow-wrap: anywhere; }
+.paper-list small { display: block; color: #505b70; margin-top: .4rem; }
+.table-scroll { overflow-x: auto; margin: 1.5rem 0; scrollbar-color: #7c859b #f0f2f8; }
+table { width: 100%; min-width: 620px; font-size: .94rem; font-variant-numeric: tabular-nums; }
+th, td { padding: .75rem; border-bottom: 1px solid #cbd0df; }
+th { background: #e9ecf6; font-weight: 600; }
+footer, footer a { color: white; }
+footer a:hover { color: #dce1ff; }
+footer p { font-size: .9rem; }
+@media (max-width: 575px) {
+    main section { padding: 2.8rem 0; }
+    .top-section { min-height: 20rem; padding: 8rem 0 4rem; }
+    #avatar img { height: 90px; max-width: 100px; }
+    #avatar { top: -40px; }
+    #home header { padding-right: 0; margin-top: 1rem; }
+    #home header h2 { font-size: 1.4rem; }
+    .catalog-filters { grid-template-columns: 1fr; }
+    section .main-body { font-size: 1rem; }
 }
 
 

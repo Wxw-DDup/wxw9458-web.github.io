@@ -1,2 +1,2 @@
 
-- Currently actively conducting research and delving deeply into professional fields.
+- **第二十一届中国研究生电子设计竞赛｜初赛三等奖**（商业计划书—产业转化赛道）。

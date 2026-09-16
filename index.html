@@ -1,177 +1,94 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html lang="zh-CN">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="Academic Webpage" />
-    <meta name="author" content="Xiangwei Wang" />
-    <title id="title"></title>
-
-    <!-- Icon -->
-    <link rel="icon" type="image/x-icon" href="static/assets/favicon.ico" />
-
-    <!-- Bootstrap icons-->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
-
-    <!-- Google fonts-->
-    <link rel="preconnect" href="https://fonts.gstatic.com" />
-    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,600;1,600&amp;display=swap"
-        rel="stylesheet" />
-    <link
-        href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,500;0,600;0,700;1,300;1,500;1,600;1,700&amp;display=swap"
-        rel="stylesheet" />
-    <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,400&amp;display=swap"
-        rel="stylesheet" />
-
-    <!-- Core theme CSS (includes Bootstrap)-->
-    <link type="text/css" href="static/css/styles.css" rel="stylesheet" />
-    <link type="text/css" href="static/css/main.css" rel="stylesheet" />
-
-    <!-- Bootstrap core JS-->
-    <script type="text/javascript" src="static/js/bootstrap.bundle.min.js"></script>
-
-    <!-- For Compatability -->
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    
-    <!-- Markdown -->
-    <script type="text/javascript" src="static/js/marked.min.js"></script>
-
-    <!-- Mathematics -->
-    <script>
-        // See https://docs.mathjax.org/en/latest/index.html for more details.
-        MathJax = {
-            tex: {
-                packages: {},              // extensions to use
-                inlineMath: [              // start/end delimiter pairs for in-line math
-                    ['$', '$'],
-                    ['\\(', '\\)']
-                ],
-                displayMath: [             // start/end delimiter pairs for display math
-                    ['$$', '$$'],
-                    ['\\[', '\\]']
-                ],
-                processEscapes: false,      // use \$ to produce a literal dollar sign
-                processEnvironments: true, // process \begin{xxx}...\end{xxx} outside math mode
-                processRefs: true,         // process \ref{...} outside of math mode
-                digits: /^(?:[0-9]+(?:\{,\}[0-9]{3})*(?:\.[0-9]*)?|\.[0-9]+)/,    // pattern for recognizing numbers
-                tags: 'all',              // or 'ams' or 'all'
-                tagSide: 'right',          // side for \tag macros
-                tagIndent: '0.8em',        // amount to indent tags
-                useLabelIds: true,         // use label name rather than tag for ids
-                maxMacros: 10000,          // maximum number of macro substitutions per expression
-                maxBuffer: 5 * 1024,       // maximum size for the internal TeX string (5K)
-                // baseURL:                   // URL for use with links to tags (when there is a <base> tag in effect)
-                // (document.getElementsByTagName('base').length === 0) ? '' : String(document.location).replace(/#.*$/, ''),
-                formatError:               // function called when TeX syntax errors occur
-                    (jax, err) => jax.formatError(err)
-            }
-        };
-    </script>
-    <script type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
-    <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-    
-    <!-- Core JS-->
-    <script type="text/javascript" src="static/js/scripts.js"></script>
-    <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
-
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="王祥伟的个人博客：无人机稻田杂草识别、农资库存管理系统、小目标检测论文阅读与模型实验记录。">
+  <meta name="author" content="Xiangwei Wang">
+  <title id="title">王祥伟 | 项目、论文与研究记录</title>
+  <link rel="icon" href="static/assets/favicon.ico">
+  <link rel="stylesheet" href="static/css/styles.css">
+  <link rel="stylesheet" href="static/css/main.css">
+  <script defer src="static/js/bootstrap.bundle.min.js"></script>
+  <script defer src="static/js/marked.min.js"></script>
+  <script defer src="static/js/js-yaml.min.js"></script>
+  <script>
+    window.MathJax = { tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }, startup: { typeset: false } };
+  </script>
+  <script defer src="static/js/tex-svg.js"></script>
+  <script defer src="static/js/scripts.js"></script>
 </head>
-
 <body id="page-top">
-    <!-- Navigation-->
-    <nav class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
-        <div class="container px-5">
-            <a id="page-top-title" class="navbar-brand fw-bold" href="#page-top"></a>
-            <!-- <a href="#page-top"><img src="static/assets/img/CUMT_LOGO.svg" style="width: 11rem;"></a> -->
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
-                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                MENU
-                <i class="bi-list"></i>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#page-top">HOME</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#publications">PUBLICATIONS</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#awards">AWARDS</a>
-                    </li>
-
-                </ul>
-            </div>
-        </div>
-    </nav>
-
-    <!-- Top Section -->
-    <section class="top-section" style="background-image: url('static/assets/img/background.jpeg');">
-        <div class="top-section-content">
-            <div class="container px-5">
-                <h2 id="top-section-bg-text" class="text-white display-3 lh-1 font-alt"></h2>
-            </div>
-        </div>
-    </section>
-    <!-- Top Section -->
-
-    <!-- Photo -->
-    <div class="container px-5">
-        <div id="avatar">
-            <img class="shadow" src="static/assets/img/photo.png">
-        </div>
+  <a class="skip-link" href="#home">跳到正文</a>
+  <nav class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav" aria-label="主导航">
+    <div class="container px-4 px-lg-5">
+      <a id="page-top-title" class="navbar-brand fw-bold" href="#page-top">Xiangwei Wang</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="展开或收起导航">菜单</button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ms-auto my-3 my-lg-0">
+          <li class="nav-item"><a class="nav-link" href="#home">关于我</a></li>
+          <li class="nav-item"><a class="nav-link" href="#projects">项目实践</a></li>
+          <li class="nav-item"><a class="nav-link" href="#reading">论文阅读</a></li>
+          <li class="nav-item"><a class="nav-link" href="#experiments">实验记录</a></li>
+          <li class="nav-item"><a class="nav-link" href="#awards">获奖经历</a></li>
+        </ul>
+      </div>
     </div>
-    <!-- Photo -->
-    
-    <!-- Home -->
-    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="home">
-        <div class="container px-5">
-            <header>
-                <h2 id="home-subtitle"> </h2>
-                <!-- <span class="bi bi-list"></span> -->
-            </header>
-            <div class="main-body" id="home-md"></div>
-        </div>
+  </nav>
+  <section class="top-section" style="background-image: url('static/assets/img/background.jpeg');" aria-label="博客主题">
+    <div class="top-section-content container px-4 px-lg-5">
+      <h1 id="top-section-bg-text">计算机视觉与研究实践</h1>
+      <p>记录做过的项目、读过的论文，以及实验中的发现。</p>
+    </div>
+  </section>
+  <div class="container px-4 px-lg-5"><div id="avatar"><img class="shadow" src="static/assets/img/photo.png" alt="王祥伟的个人头像"></div></div>
+  <main>
+    <noscript><p class="container">当前浏览器未启用 JavaScript。可直接阅读 <a href="contents/home.md">个人介绍</a>、<a href="contents/projects.md">项目</a>、<a href="contents/reading.md">论文导读</a>和<a href="contents/experiments.md">实验记录</a>。</p></noscript>
+    <section id="home" class="bg-gradient-primary-to-secondary-light">
+      <div class="container px-4 px-lg-5">
+        <header><h2 id="home-subtitle">Xiangwei Wang | 王祥伟</h2></header>
+        <div class="main-body" id="home-md"><p>正在加载个人介绍…</p></div>
+      </div>
     </section>
-    <!-- Home -->
-
-    <!-- Publications -->
-    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="publications">
-        <div class="container px-5">
-            <header>
-                <h2 id="publications-subtitle"><i class="bi bi-file-text-fill"></i>&nbsp;PUBLICATIONS</h2>
-            </header>
-            <div class="main-body" id="publications-md"></div>
-
-        </div>
+    <section id="projects" class="bg-gradient-primary-to-secondary-gray">
+      <div class="container px-4 px-lg-5">
+        <header><h2>项目实践</h2></header>
+        <div class="main-body" id="projects-md"><p>正在加载项目…</p></div>
+      </div>
     </section>
-    <!-- Publications  -->
-
-    <!-- Awards -->
-    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="awards">
-        <div class="container px-5">
-            <header>
-                <h2 id="awards-subtitle"><i class="bi bi-award-fill"></i>AWARDS </h2>
-            </header>
-            <div class="main-body" id="awards-md"></div>
-
-        </div>
+    <section id="reading" class="bg-gradient-primary-to-secondary-light">
+      <div class="container px-4 px-lg-5">
+        <header><h2>论文阅读</h2></header>
+        <div class="main-body" id="reading-md"><p>正在加载论文导读…</p></div>
+        <details class="paper-catalog" id="paper-catalog">
+          <summary>浏览完整论文清单</summary>
+          <div class="catalog-filters">
+            <div><label for="paper-search">搜索题名或主题</label><input type="search" id="paper-search" placeholder="例如：DETR、tiny、特征" aria-controls="paper-list"></div>
+            <div><label for="paper-topic">筛选主题</label><select id="paper-topic" aria-controls="paper-list"><option value="">全部主题</option><option>小目标</option><option>DETR</option><option>频率与特征</option><option>遥感</option><option>标签与匹配</option><option>其他视觉研究</option></select></div>
+          </div>
+          <p id="paper-count" role="status" aria-live="polite">正在加载清单…</p>
+          <ol id="paper-list" class="paper-list"></ol>
+        </details>
+      </div>
     </section>
-    <!-- Awards -->
-
-
-    <!-- Footer-->
-    <footer class="bg-bottom text-center py-5">
-        <div class="container px-5">
-            <div class="text-white-50 small">
-                <div id="copyright-text" class="mb-2"></div>
-                <a id="github-link" href="https://github.com/wxw9458-web">Github</a>
-                <span class="mx-1">&middot;</span>
-                <a id="license-link" href="https://github.com/wxw9458-web/wxw9458-web.github.io/blob/main/LICENSE">License</a>
-            </div>
-        </div>
-    </footer>
-
+    <section id="experiments" class="bg-gradient-primary-to-secondary-gray">
+      <div class="container px-4 px-lg-5">
+        <header><h2>实验记录</h2></header>
+        <div class="main-body" id="experiments-md"><p>正在加载实验记录…</p></div>
+      </div>
+    </section>
+    <section id="awards" class="bg-gradient-primary-to-secondary-light">
+      <div class="container px-4 px-lg-5">
+        <header><h2>获奖经历</h2></header>
+        <div class="main-body" id="awards-md"><p>正在加载获奖经历…</p></div>
+      </div>
+    </section>
+  </main>
+  <footer class="bg-bottom text-center py-5">
+    <div class="container">
+      <p id="copyright-text">&copy; Xiangwei Wang 2026. All Rights Reserved.</p>
+      <a href="https://github.com/Wxw-DDup">GitHub</a> · <a href="https://github.com/Wxw-DDup/wxw9458-web.github.io/blob/main/LICENSE">License</a> · <a href="#page-top">回到顶部</a>
+    </div>
+  </footer>
 </body>
-
 </html>

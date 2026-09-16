@@ -1,0 +1,1298 @@
+[
+  {
+    "title": "Large Selective Kernel Network for Remote Sensing Object Detection",
+    "tags": [
+      "频率与特征",
+      "遥感"
+    ],
+    "note": "#note-lsknet"
+  },
+  {
+    "title": "Dynamic Coarse-To-Fine Learning for Oriented Tiny Object Detection",
+    "tags": [
+      "小目标",
+      "遥感"
+    ]
+  },
+  {
+    "title": "Small Object Detection via Coarse-to-fine Proposal Generation and Imitation Learning",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "ScaleKD: Distilling Scale-Aware Knowledge in Small Object Detector",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "Hierarchical alignment network for domain adaptive object detection in aerial images",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Detecting tiny objects in aerial images: A normalized Wasserstein distance and a new benchmark",
+    "tags": [
+      "小目标",
+      "遥感"
+    ],
+    "note": "#note-nwd"
+  },
+  {
+    "title": "SCLNet: A Scale-Robust Complementary Learning Network for Object Detection in UAV Images",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Poly Kernel Inception Network for Remote Sensing Detection",
+    "tags": [
+      "频率与特征",
+      "遥感"
+    ]
+  },
+  {
+    "title": "A Tiny Object Detection Method Based on Explicit Semantic Guidance for Remote Sensing Images",
+    "tags": [
+      "小目标",
+      "遥感"
+    ]
+  },
+  {
+    "title": "FFCA-YOLO for Small Object Detection in Remote Sensing Images",
+    "tags": [
+      "小目标",
+      "遥感"
+    ]
+  },
+  {
+    "title": "TAM-TR: Text-guided attention multi-modal transformer for object detection in UAV images",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "OGMN: Occlusion-guided Multi-task Network for Object Detection in UAV Images",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Adaptive Sparse Convolutional Networks with Global Context Enhancement for Faster Object Detection on Drone Images",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "OpenRSD: Towards Open-prompts for Object Detection in Remote Sensing Images",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "AeroGen: Enhancing Remote Sensing Object Detection with Diffusion-Driven Data Generation",
+    "tags": [
+      "频率与特征",
+      "遥感"
+    ]
+  },
+  {
+    "title": "PDiscoNet: Semantically consistent part discovery for fine-grained recognition",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "The devil is in the fine-grained details: Evaluating open-vocabulary object detectors for fine-grained understanding",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "WildlifeMapper: Aerial Image Analysis for Multi-Species Detection and Identification",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Semi-DETR: Semi-Supervised Object Detection with Detection Transformers",
+    "tags": [
+      "DETR",
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "RemoteCLIP: A Vision Language Foundation Model for Remote Sensing",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Towards Generalized UAV Object Detection: A Novel Perspective from Frequency Domain Disentanglement",
+    "tags": [
+      "频率与特征",
+      "遥感"
+    ]
+  },
+  {
+    "title": "Learning Taxonomic Trees with Hierarchical Representation Regularization for Large Multimodal Models",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "SET: Spectral Enhancement for Tiny Object Detection",
+    "tags": [
+      "小目标",
+      "频率与特征"
+    ]
+  },
+  {
+    "title": "Feature Information Driven Position Gaussian Distribution Estimation for Tiny Object Detection",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "DQ-DETR: DETR with Dynamic Query for Tiny Object Detection",
+    "tags": [
+      "小目标",
+      "DETR"
+    ]
+  },
+  {
+    "title": "A DeNoising FPN with Transformer R-CNN for Tiny Object Detection",
+    "tags": [
+      "小目标",
+      "频率与特征"
+    ]
+  },
+  {
+    "title": "PETDet: Proposal Enhancement for Two-Stage Fine-Grained Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "D-FINE: Redefine Regression Task in DETRs as Fine-grained Distribution Refinement",
+    "tags": [
+      "DETR"
+    ]
+  },
+  {
+    "title": "Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "DEIM: DETR with Improved Matching for Fast Convergence",
+    "tags": [
+      "DETR",
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "HA-RDet: Hybrid Anchor Rotation Detector for Oriented Object Detection",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "ORSATR-X: A Foundation Model based on Differential-and-Excitation Networks for Optical Remote Sensing Object Recognition",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Balanced Hierarchical Contrastive Learning with Decoupled Queries for Fine-grained Object Detection in Remote Sensing Images",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Adapting Vehicle Detectors for Aerial Imagery to Unseen Domains with Weak Supervision",
+    "tags": [
+      "遥感",
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection",
+    "tags": [
+      "频率与特征"
+    ]
+  },
+  {
+    "title": "Visual-RFT: Visual Reinforcement Fine-Tuning",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "KLDet: Detecting Tiny Objects in Remote Sensing Images via Kullback–Leibler Divergence",
+    "tags": [
+      "小目标",
+      "遥感"
+    ]
+  },
+  {
+    "title": "Bucketed Ranking-based Losses for Efficient Training of Object Detectors",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "FineCLIP: Self-distilled Region-based CLIP for Better Fine-grained Understanding",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Adaptive Part Learning for Fine-Grained Generalized Category Discovery: A Plug-and-Play Enhancement",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "CCDet: Confidence-Consistent Learning for Dense Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "PaQ-DETR: Learning Pattern and Quality-Aware Dynamic Queries for Object Detection",
+    "tags": [
+      "DETR"
+    ]
+  },
+  {
+    "title": "PSEDET: Revisiting the Power of Pseudo Label in Incremental Object Detection",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Balancing Two Classifiers via A Simplex ETF Structure for Model Calibration",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "RF-DETR: Neural Architecture Search for Real-Time Detection Transformers",
+    "tags": [
+      "DETR"
+    ]
+  },
+  {
+    "title": "Be Confident in What You Know: Bayesian Parameter Efficient Fine-Tuning of Vision Foundation Models",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Unc-SOD: An Uncertainty Learning Framework for Small Object Detection",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "Toward Accurate and Robust Pedestrian Detection via Variational Inference",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Efficient and Accurate Object Detection With Asymmetric Progressive Semi-Decoupled Head and Harmonic Focal Loss",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Resolution Preserving and Utilization Network for Tiny Object Detection in Large-Size Remote Sensing Imagery",
+    "tags": [
+      "小目标",
+      "遥感"
+    ]
+  },
+  {
+    "title": "Systematic Evaluation of Uncertainty Calibration in Pretrained Object Detectors",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "ESOD: Efficient Small Object Detection on High-Resolution Images",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "HR-SemNet: A High-Resolution Network for Enhanced Small Object Detection With Local Contextual Semantics",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "Completing Missing Entities: Exploring Consistency Reasoning for Remote Sensing Object Detection",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "On Calibration of Object Detectors: Pitfalls, Evaluation and Baselines",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "RHCNet: Residual-Guided Hierarchical Calibration Network for Robust Underwater Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Multiclass Confidence and Localization Calibration for Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Rank-DETR for High Quality Object Detection",
+    "tags": [
+      "DETR"
+    ]
+  },
+  {
+    "title": "Uncertainty-Aware Gradient Stabilization for Small Object Detection",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "FADL-Net: Frequency-Assisted Dynamic Learning Network for Oriented Object Detection in Remote Sensing Images",
+    "tags": [
+      "频率与特征",
+      "遥感"
+    ]
+  },
+  {
+    "title": "Adaptive Important Region Selection with Reinforced Hierarchical Search for Dense Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "A Novel Dense Object Detector With Scale Balanced Sample Assignment and Refinement",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "CTOD: Cross-Attentive Task-Alignment for One-Stage Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Incorporating Multiscale Context and Task-Consistent Focal Loss into Oriented Object Detection",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Negative-Core Sample Knowledge Distillation for Oriented Object Detection in Remote Sensing Image",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Cascade-DETR: Delving into High-Quality Universal Object Detection",
+    "tags": [
+      "DETR"
+    ]
+  },
+  {
+    "title": "RARE: Learn to RAnk and REtrieve for Monocular 3D Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Automated Model Evaluation for Object Detection via Prediction Consistency and Reliability",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Oriented Tiny Object Detection: A Dataset, Benchmark, and Dynamic Unbiased Learning",
+    "tags": [
+      "小目标",
+      "遥感"
+    ]
+  },
+  {
+    "title": "Detection Transformer with Stable Matching",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Harmonious Teacher for Cross-Domain Object Detection",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Decoupled DETR: Spatially Disentangling Localization and Classification for Improved End-to-End Object Detection",
+    "tags": [
+      "DETR"
+    ]
+  },
+  {
+    "title": "Probabilistic Intersection-Over-Union for Training and Evaluation of Oriented Object Detectors",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "An Erudite Fine-Grained Visual Classification Model",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Hybrid Proposal Refiner: Revisiting DETR Series from the Faster R-CNN Perspective",
+    "tags": [
+      "DETR"
+    ]
+  },
+  {
+    "title": "MI-DETR: An Object Detection Model with Multi-time Inquiries Mechanism",
+    "tags": [
+      "DETR"
+    ]
+  },
+  {
+    "title": "Anchor-Intermediate Detector: Decoupling and Coupling Bounding Boxes for Accurate Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "DiffusionDet: Diffusion Model for Object Detection",
+    "tags": [
+      "频率与特征"
+    ]
+  },
+  {
+    "title": "Extreme Point Supervised Instance Segmentation",
+    "tags": [
+      "标签与匹配",
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Projecting Points to Axes: Oriented Object Detection via Point-Axis Representation",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Adaptive Bounding Box Uncertainties via Two-Step Conformal Prediction",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Bayesian Detector Combination for Object Detection with Crowdsourced Annotations",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Unbalanced Optimal Transport: A Unified Framework for Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Not Every Side Is Equal: Localization Uncertainty Estimation for Semi-Supervised 3D Object Detection",
+    "tags": [
+      "标签与匹配",
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Vision Transformers Are Good Mask Auto-Labelers",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Deep-NFA: A deep a contrario framework for tiny object detection",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "DM-EFS: Dynamically Multiplexed Expanded Features Set Form for Robust and Efficient Small Object Detection",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "Frequency-Adaptive Dilated Convolution for Semantic Segmentation",
+    "tags": [
+      "频率与特征",
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Bridging Precision and Confidence: A Train-Time Loss for Calibrating Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Union-over-Intersections: Object Detection Beyond Winner-Takes-All",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Frequency-Aware Feature Fusion for Dense Image Prediction",
+    "tags": [
+      "频率与特征"
+    ],
+    "note": "#note-freqfusion"
+  },
+  {
+    "title": "Visible and Clear: Finding Tiny Objects in Difference Map",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "Breathing New Life into Small Object Detection with Detection-Oriented Rectification",
+    "tags": [
+      "小目标",
+      "遥感"
+    ]
+  },
+  {
+    "title": "HS-FPN: High Frequency and Spatial Perception FPN for Tiny Object Detection",
+    "tags": [
+      "小目标",
+      "频率与特征"
+    ]
+  },
+  {
+    "title": "Confidence Propagation Cluster: Unleash Full Potential of Object Detectors",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Seeing Clearly and Detecting Precisely: Perceptual Enhancement and Focus Calibration for Small-Object Detection",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "Tiny object detection based on dynamic scale-awareness label assignment and contextual enhancement",
+    "tags": [
+      "小目标",
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "CODI: Contextual Object Detection via Image Inpainting",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Regression-Guided Refocusing Learning With Feature Alignment for Remote Sensing Tiny Object Detection",
+    "tags": [
+      "小目标",
+      "遥感"
+    ]
+  },
+  {
+    "title": "Center-Symmetry Representation-Based High-Quality Localization Detector for Oriented Object Detection",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "CFENet: Contextual Feature Enhancement Network for Tiny Object Detection in Aerial Images",
+    "tags": [
+      "小目标",
+      "遥感"
+    ]
+  },
+  {
+    "title": "Improved Gaussian Wasserstein Distance: A Smooth Adaptive New Metric for Remote Sensing Tiny Object Detection",
+    "tags": [
+      "小目标",
+      "遥感"
+    ]
+  },
+  {
+    "title": "Confluence: A Robust Non-IoU Alternative to Non-Maxima Suppression in Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Adaptive spatial and scale label assignment for anchor-free object detection",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Non-Maximum Suppression Guided Label Assignment for Object Detection in Crowd Scenes",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Task-Wise Sampling Convolutions for Arbitrary-Oriented Object Detection in Aerial Images",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Multistage Enhancement Network for Tiny Object Detection in Remote Sensing Images",
+    "tags": [
+      "小目标",
+      "遥感"
+    ]
+  },
+  {
+    "title": "Sample Weighting with Hierarchical Equalization Loss for Dense Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Automatic Label Assignment for Object Detection",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "TBNet: A texture and boundary-aware network for small weak object detection in remote-sensing imagery",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "DHLA: Dynamic Hybrid Label Assignment for End-to-End Object Detection",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "EASE-DETR: Easing the Competition among Object Queries",
+    "tags": [
+      "DETR"
+    ]
+  },
+  {
+    "title": "SADet: A semantic-aware tiny object detection network against missed detection",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "DAWDet: A dynamic content-aware multi-branch framework with adaptive wavelet boosting for small object detection",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "FSENet: Feature suppression and enhancement network for tiny object detection",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "Effective Lymph Nodes Detection in CT Scans Using Location Debiased Query Selection and Contrastive Query Representation in Transformer",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Structure-Adaptive Oriented Object Detection Network for Remote Sensing Images",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "DAVE - A Detect-and-Verify Paradigm for Low-Shot Counting",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Salience DETR: Enhancing Detection Transformer with Hierarchical Salience Filtering Refinement",
+    "tags": [
+      "DETR"
+    ]
+  },
+  {
+    "title": "Semantic Differentiation Aids Oriented Small Object Detection",
+    "tags": [
+      "小目标",
+      "遥感"
+    ]
+  },
+  {
+    "title": "Centric Probability-Based Sample Selection for Oriented Object Detection",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Noise-Robust tiny object localization with flows",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "Gradient Calibration Loss for Fast and Accurate Oriented Bounding Box Regression",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Multi-clue Consistency Learning to Bridge Gaps Between General and Oriented Object in Semi-supervised Detection",
+    "tags": [
+      "遥感",
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Integrating Diverse Assignment Strategies into DETRs",
+    "tags": [
+      "DETR",
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Relation DETR: Exploring Explicit Position Relation Prior for Object Detection",
+    "tags": [
+      "DETR"
+    ]
+  },
+  {
+    "title": "Mr. DETR: Instructive Multi-Route Training for Detection Transformers",
+    "tags": [
+      "DETR"
+    ]
+  },
+  {
+    "title": "Enhancing Source-Free Domain Adaptive Object Detection with Low-confidence Pseudo Label Distillation",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "DN-TOD: Robust tiny object detection amidst label noise",
+    "tags": [
+      "小目标",
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Less is More: Focus Attention for Efficient DETR",
+    "tags": [
+      "DETR"
+    ]
+  },
+  {
+    "title": "Ray Denoising: Depth-aware Hard Negative Sampling for Multi-view 3D Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "LEOD: Label-Efficient Object Detection for Event Cameras",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Consistent-Teacher: Towards Reducing Inconsistent Pseudo-Targets in Semi-Supervised Object Detection",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "MixTeacher: Mining Promising Labels With Mixed Scale Teacher for Semi-Supervised Object Detection",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Adaptive Dual Uncertainty Optimization: Boosting Monocular 3D Object Detection under Test-Time Shifts",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "HINTED: Hard Instance Enhanced Detector with Mixed-Density Feature Fusion for Sparsely-Supervised 3D Object Detection",
+    "tags": [
+      "频率与特征",
+      "标签与匹配",
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "MS-DETR: Efficient DETR Training with Mixed Supervision",
+    "tags": [
+      "DETR",
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Open-World Objectness Modeling Unifies Novel Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "DETRs with Collaborative Hybrid Assignments Training",
+    "tags": [
+      "DETR",
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "LMD: Light-Weight Prediction Quality Estimation for Object Detection in Lidar Point Clouds",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection",
+    "tags": [
+      "小目标",
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Pick of the Bunch: Detecting Infrared Small Targets Beyond Hit-Miss Trade-Offs via Selective Rank-Aware Attention",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "SIRST-5K: Exploring Massive Negatives Synthesis With Self-Supervised Learning for Robust Infrared Small Target Detection",
+    "tags": [
+      "小目标",
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Infrared Small Target Detection with Scale and Location Sensitivity",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "Correlation Loss: Enforcing Correlation between Classification and Localization",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "RemDet: Rethinking Efficient Model Design for UAV Object Detection",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Dense Distinct Query for End-to-End Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Towards Region-Adaptive Feature Disentanglement and Enhancement for Small Object Detection",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection",
+    "tags": [
+      "小目标",
+      "DETR",
+      "遥感"
+    ]
+  },
+  {
+    "title": "Small object detection in UAV aerial imagery through domain consistency optimization for cross-resolution semantic alignment",
+    "tags": [
+      "小目标",
+      "遥感"
+    ]
+  },
+  {
+    "title": "A dynamic context-aware aggregation strategy for small object detection",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "Position Guided Dynamic Receptive Field Network: A Small Object Detection Friendly to Optical and SAR Images",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "Dynamic selection of Gaussian samples for object detection on drone images via shape sensing",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Cross-scale adaptive transformer with hierarchical feature synergy for aerial small object detection",
+    "tags": [
+      "小目标",
+      "遥感"
+    ]
+  },
+  {
+    "title": "A bio-inspired spatial-frequency synergistic model for small object detection",
+    "tags": [
+      "小目标",
+      "频率与特征"
+    ]
+  },
+  {
+    "title": "MSNet: Multi-Scale Network for Object Detection in Remote Sensing Images",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "FMSD: Focal Multi-Scale Shape-Feature Distillation Network for Small Fasteners Detection in Electric Power Scene",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Multimodal Causal Reasoning for UAV Object Detection",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Attention-Based Mean-Max Balance Assignment for Oriented Object Detection in Optical Remote Sensing Images",
+    "tags": [
+      "遥感",
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Similar Category Enhancement Network for Discrimination on Small Object Detection",
+    "tags": [
+      "小目标"
+    ]
+  },
+  {
+    "title": "CSPCL: Category Semantic Prior Contrastive Learning for Deformable DETR-Based Prohibited Item Detectors",
+    "tags": [
+      "DETR"
+    ]
+  },
+  {
+    "title": "CSFPR-RTDETR: Real-Time Small Object Detection Network for UAV Images Based on Cross-Spatial-Frequency Domain and Position Relation",
+    "tags": [
+      "小目标",
+      "DETR",
+      "频率与特征",
+      "遥感"
+    ]
+  },
+  {
+    "title": "Position-DETR: Step-by-Step Position-Guided Small Object Detection in Remote Sensing Images",
+    "tags": [
+      "小目标",
+      "DETR",
+      "遥感"
+    ]
+  },
+  {
+    "title": "SAFF-DETR: An End-to-End Object Detection Network for Remote Sensing Images With Targets of Varying Sizes Based on Scale Adaptation and Frequency Fusion",
+    "tags": [
+      "DETR",
+      "频率与特征",
+      "遥感"
+    ]
+  },
+  {
+    "title": "RSDS: A Specialized Loss Calculation Method for Dense Small Object Detection in Remote Sensing Images",
+    "tags": [
+      "小目标",
+      "遥感"
+    ]
+  },
+  {
+    "title": "SMWG-DETR: DETR Enhanced by Fourier Spectral Modulation and Wavelet-Guided Fusion for Tiny Object Detection",
+    "tags": [
+      "小目标",
+      "DETR",
+      "频率与特征"
+    ]
+  },
+  {
+    "title": "From Weak Textures to Dense Arrangements: Leveraging Prior Knowledge for Small-Object Detection in Remote Sensing Images",
+    "tags": [
+      "小目标",
+      "遥感"
+    ]
+  },
+  {
+    "title": "ETD-Det: Oriented Object Detection With Spectral Diffusion Encoding and Extended-Gaussian Decoding",
+    "tags": [
+      "频率与特征",
+      "遥感"
+    ]
+  },
+  {
+    "title": "Label Assignment Matters: A Gaussian Assignment Strategy for Tiny Object Detection",
+    "tags": [
+      "小目标",
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "SO-DETR: Small Object Detection Transformer via State Space Duality Encoder and Multigroup Rank Supervision",
+    "tags": [
+      "小目标",
+      "DETR",
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Revisiting Domain-Adaptive Object Detection in Adverse Weather by the Generation and Composition of High-Quality Pseudo-Labels",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "A New Multi-Source Light Detection Benchmark and Semi-Supervised Focal Light Detection",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Adaptive image zoom-in with bounding box transformation for UAV object detection",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Multiscale Gaussian Attention Mechanism for Tiny-Object Detection in Remote Sensing Images",
+    "tags": [
+      "小目标",
+      "遥感"
+    ]
+  },
+  {
+    "title": "Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Dual-teacher fusion with augmented branch for semi-supervised object detection",
+    "tags": [
+      "频率与特征",
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Image signal process with dynamic class-rebalanced and IoU-threshold for unsupervised domain adaptive dark object detection",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion",
+    "tags": [
+      "频率与特征"
+    ]
+  },
+  {
+    "title": "GUIDED: Granular Understanding via Identification, Detection, and Discrimination for Fine-Grained Open-Vocabulary Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Targeted False Positive Synthesis via Detector-guided Adversarial Diffusion Attacker for Robust Polyp Detection",
+    "tags": [
+      "频率与特征"
+    ]
+  },
+  {
+    "title": "Minuscule Cell Detection in AS-OCT Images with Progressive Field-of-View Focusing",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "YOLO-MS: Rethinking Multi-Scale Representation Learning for Real-Time Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "MonoTTA: Fully Test-Time Adaptation for Monocular 3D Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Revisiting Out-of-Distribution Detection in Real-Time Object Detection: From Benchmark Pitfalls to a New Mitigation Paradigm",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "ELDET: Early-Learning Distillation with Noisy Labels for Object Detection",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Category-Aware Dynamic Label Assignment With High-Quality Proposals for Oriented Object Detection",
+    "tags": [
+      "遥感",
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "MoCaE: Mixture of Calibrated Experts Significantly Improves Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "CQ-DINO: Mitigating Gradient Dilution via Category Queries for Vast Vocabulary Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Generalized-Scale Object Counting with Gradual Query Aggregation",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Retrieval-Augmented Open-Vocabulary Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "When Pixel Difference Patterns Meet ViT: PiDiViT for Few-Shot Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "BTKD++: Beyond Teachers by Critically Distilling Knowledge from Teacher’s Bias",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "ViT-UWA: Vision Transformer Underwater-Adapter for Dense Predictions Beneath the Water Surface",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Relation Knowledge Distillation by Auxiliary Learning for Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "FeatAug-DETR: Enriching One-to-Many Matching for DETRs With Feature Augmentation",
+    "tags": [
+      "DETR",
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "CrossKD: Cross-Head Knowledge Distillation for Object Detection",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "Large Self-Supervised Models Bridge the Gap in Domain Adaptive Object Detection",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Better Matching, Less Forgetting: A Quality-Guided Matcher for Transformer-based Incremental Object Detection",
+    "tags": [
+      "标签与匹配"
+    ]
+  },
+  {
+    "title": "Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection",
+    "tags": [
+      "遥感"
+    ]
+  },
+  {
+    "title": "Marginalized Generalized IoU (MGIoU): A Unified Objective Function for Optimizing Convex Parametric Shapes",
+    "tags": [
+      "其他视觉研究"
+    ]
+  },
+  {
+    "title": "DiffRefine: Diffusion-based Proposal Specific Point Cloud Densification for Cross-Domain Object Detection",
+    "tags": [
+      "频率与特征"
+    ]
+  }
+]
